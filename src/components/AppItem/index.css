@@ -1,0 +1,22 @@
+.bg-app-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Bree Serif;
+  margin: 10px;
+  height: 150px;
+  width: 150px;
+}
+
+.image {
+  height: 40px;
+  width: 40px;
+}
+
+.heading {
+  font-size: 20px;
+  color: #1e293b;
+}

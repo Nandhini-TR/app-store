@@ -1,0 +1,15 @@
+.each-tab {
+  color: #7b8794;
+  font-size: 20px;
+  padding: 10px;
+  text-decoration: underline;
+  text-decoration-color: #7b8794;
+  text-underline-position: under;
+  border: none;
+  background-color: transparent;
+}
+
+.active-tab {
+  color: #2563eb;
+  text-decoration-color: #2563eb;
+}
